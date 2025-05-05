@@ -28,5 +28,5 @@ A simple project demonstrating how to implement Google OAuth 2.0 for user authen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Google-OAuth-Integration.git
+   git clone https://github.com/thisisfaizanali/Google-OAuth-Integration.git
    ```
