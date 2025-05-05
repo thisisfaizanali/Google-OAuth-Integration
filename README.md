@@ -12,7 +12,7 @@ A simple project demonstrating how to implement Google OAuth 2.0 for user authen
 ## Tech Stack
 
 - **Frontend**: HTML, JavaScript
-- **Backend**: Node.js (or specify your backend, e.g., Python, Express)
+- **Backend**: Node.js 
 - **Google OAuth**: Google Identity Services API
 - **Other Dependencies**: (e.g., Axios for HTTP requests, dotenv for environment variables)
 
